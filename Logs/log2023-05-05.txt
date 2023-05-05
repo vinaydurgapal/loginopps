@@ -1,0 +1,5 @@
+2023-05-05 18:22:47,454 - test_login.py:[12] - [INFO] - Test Do Sign up started
+2023-05-05 18:22:47,640 - BasePage.py:[20] - [INFO] - Typing in an element: username_NAME value entered as : username
+2023-05-05 18:22:48,022 - BasePage.py:[20] - [INFO] - Typing in an element: password_NAME value entered as : passowrd
+2023-05-05 18:22:48,123 - BasePage.py:[27] - [INFO] - Clicking on an element: submit_ID
+2023-05-05 18:22:48,123 - test_login.py:[21] - [INFO] - Test Do Sign up successfully executed
